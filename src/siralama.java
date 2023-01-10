@@ -26,6 +26,6 @@ public class siralama {
         System.out.println(
                 "Girilen Numaraların büyükten küçüğe sıralaması: " + bigNumber + ">" + midNumber + ">" + smallNumber);
         System.out.println(
-                "Girilen Numaraların küçükten büyüğe sıralaması: " + smallNumber + "<" + midNumber + "" + bigNumber);
+                "Girilen Numaraların küçükten büyüğe sıralaması: " + smallNumber + "<" + midNumber + "<" + bigNumber);
     }
 }
